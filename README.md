@@ -53,11 +53,9 @@ GET	/queue/next	Ver siguiente
 
 DELETE	/queue	Procesar siguiente (dequeue)
 
-### Clonar el repositorio
+### CR
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd taskflow
 
 Probar con cURL:
 ## Crear backlog: 
